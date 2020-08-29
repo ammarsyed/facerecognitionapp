@@ -1,3 +1,4 @@
+/* eslint-disable */
 <template>
   <div class="page">
     <h1 class="text-center">Images</h1>
